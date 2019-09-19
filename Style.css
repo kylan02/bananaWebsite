@@ -1,6 +1,6 @@
 .carousel-inner {
-  width:640px;
-  height:360px;
+  height: 350px;
+  max-width: 100%;
 }
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
