@@ -37,8 +37,17 @@
 
 #header{
   text-align: center;
+<<<<<<< HEAD
   /* width:640px; */
   /* height:360px; */
+=======
+  width:640px;
+  height:360px;
+<<<<<<< HEAD
+
+=======
+>>>>>>> 44bbef22c1785b7e53c773f30f2169634cd06d09
+>>>>>>> 22f67f9c0ce506a07ba05b952a90b962f0d0fba6
 }
 
 .row img{
