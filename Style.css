@@ -35,11 +35,16 @@
 .picture{
   max-width: 300px;
 }
-img{
-  width: 300px;
-
-}
 
 #header{
   text-align: center;
+}
+
+.row img{
+  width: 100%;
+}
+
+.col-sm-4{
+  margin: 0;
+  padding: 0;
 }
