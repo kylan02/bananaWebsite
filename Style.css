@@ -43,9 +43,9 @@
 }
 
 #description{
-  font-weight: bold;
   font-style: italic;
   text-align: center;
+  font-family: arial;
 }
 .dsc{
   width: 750px;
