@@ -1,6 +1,6 @@
 .carousel-inner {
-  max-height: auto;
-  max-width: 75%;
+  height:auto;
+  max-width: 50%;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -46,9 +46,16 @@
   font-style: italic;
   text-align: center;
   font-family: arial;
+  line-height: 30px;
+}
+.button{
+
+}
+#learn{
+  text-align: center;
 }
 .dsc{
-  max-width: 90%;
+  max-width: 75%;
   margin-top: 15px;
   display: block;
   margin-left: auto;
