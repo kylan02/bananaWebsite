@@ -44,12 +44,12 @@
 }
 
 #description{
-  font-weight: bold;
   font-style: italic;
   text-align: center;
+  font-family: arial;
 }
 .dsc{
-  width: 750px;
+  max-width: 90%;
   margin-top: 15px;
   display: block;
   margin-left: auto;
