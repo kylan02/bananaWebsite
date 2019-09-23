@@ -43,12 +43,12 @@
 }
 
 #description{
-  font-weight: bold;
   font-style: italic;
   text-align: center;
+  font-family: arial;
 }
 .dsc{
-  width: 750px;
+  max-width: 90%;
   margin-top: 15px;
   display: block;
   margin-left: auto;
@@ -75,9 +75,18 @@
   margin-top: 5px;
 }
 
+<<<<<<< HEAD
 /* h3{
+=======
+h3 .container-fluid{
+>>>>>>> 01f8cf5c7382a18efa6fef51922114954690ff9d
   text-align:center;
   color: White;
   background-color: Black;
   opacity: 0.5;
+<<<<<<< HEAD
 } */
+=======
+  display: none;
+}
+>>>>>>> 01f8cf5c7382a18efa6fef51922114954690ff9d
