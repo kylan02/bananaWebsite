@@ -19,7 +19,7 @@
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.accordion:hover {
+.active, .accordion:hover {
   background-color: #ccc;
 }
 
@@ -28,11 +28,10 @@
 .panel {
   padding: 0 18px;
   background-color: white;
-  display: none;
-  overflow: hidden;
-  /*
+  /* display: none; */
   max-height: 0;
-  transition: max-height 0.2s ease-out; */
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
 }
 
 .picture{
@@ -76,10 +75,22 @@
   margin-top: 5px;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+/* h3{
+=======
 h3 .container-fluid{
+>>>>>>> 01f8cf5c7382a18efa6fef51922114954690ff9d
+=======
+.container-fluid h3{
+>>>>>>> ba1ff9f50f290a74c0b7e009f55c9c60dd7dd802
   text-align:center;
   color: White;
   background-color: Black;
   opacity: 0.5;
+<<<<<<< HEAD
+} */
+=======
   display: none;
 }
+>>>>>>> 01f8cf5c7382a18efa6fef51922114954690ff9d
