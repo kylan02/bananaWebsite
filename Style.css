@@ -74,3 +74,10 @@
 .heading{
   margin-top: 5px;
 }
+
+h3{
+  text-align:center;
+  color: White;
+  background-color: Black;
+  opacity: 0.5;
+}
