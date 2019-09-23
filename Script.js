@@ -17,7 +17,7 @@ for (i = 0; i < acc.length; i++) {
     }
   });
 }
-});
 $("#a").hover(function(){
     $("#one").slideToggle("slow");
   });
+});
