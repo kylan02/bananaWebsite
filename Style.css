@@ -40,6 +40,12 @@
   text-align: center;
 }
 
+#description{
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
 .row img{
   width: 100%;
 }
