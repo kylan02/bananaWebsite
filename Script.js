@@ -16,11 +16,6 @@ for (i = 0; i < acc.length; i++) {
     } else {
       panel.style.maxHeight = panel.scrollHeight + "px";
     }
-   //  if (panel.style.display === "block") {
-   //   panel.style.display = "none";
-   // } else {
-   //   panel.style.display = "block";
-   // }
   });
 }
 $("#a").hover(function(){
