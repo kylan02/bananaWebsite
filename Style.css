@@ -91,4 +91,7 @@
   background-color: Black;
   opacity: 0.5;
   display: none;
+  position: absolute;
+  bottom: 0;
+  margin:0;
 }

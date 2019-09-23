@@ -21,4 +21,10 @@ for (i = 0; i < acc.length; i++) {
 $("#a").hover(function(){
     $("#one").slideToggle("slow");
   });
+  $("#b").hover(function(){
+      $("#two").slideToggle("slow");
+    });
+    $("#c").hover(function(){
+        $("#three").slideToggle("slow");
+      });
 });
