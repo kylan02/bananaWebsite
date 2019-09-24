@@ -44,6 +44,10 @@ nav{
   text-align: center;
 }
 
+.heading{
+  margin-left: 10px;
+}
+
 #description{
   font-style: italic;
   text-align: center;
