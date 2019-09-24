@@ -45,6 +45,10 @@ nav{
   text-align: center;
 }
 
+.heading{
+  margin-left: 10px;
+}
+
 #description{
   font-style: italic;
   text-align: center;
@@ -92,7 +96,7 @@ nav{
 .container-fluid h3{
   text-align:center;
   color: White;
-  background-color: rgba(0,0,0,0.25);
+  background-color: rgba(0,0,0,0.5);
   display: none;
   position: absolute;
   bottom: 0;
