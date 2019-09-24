@@ -32,8 +32,5 @@ $(document).ready(function() {
   $(".button").click(function() {
     $(".history").toggle();
   });
-  // carousel duration
-  $("#carouselExampleSlidesOnly").carousel({
-    interval: 500;
-  });
+
 });
