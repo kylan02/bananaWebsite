@@ -28,9 +28,9 @@ $(document).ready(function() {
     $("#three").slideToggle("slow");
   });
   // history of the banana button
-  $(".history").hide();
+  $("#grid").hide();
   $(".button").click(function() {
-    $(".history").toggle();
+    $("#grid").toggle();
   });
 
 });
