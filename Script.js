@@ -36,6 +36,15 @@ $(document).ready(function() {
   $("#f").hover(function() {
     $("#six").slideToggle("slow");
   });
+  $("#g").hover(function() {
+    $("#seven").slideToggle("slow");
+  });
+  $("#h").hover(function() {
+    $("#eight").slideToggle("slow");
+  });
+  $("#i").hover(function() {
+    $("#nine").slideToggle("slow");
+  });
   // history of the banana button
   $("#grid").hide();
   $(".button").click(function() {
