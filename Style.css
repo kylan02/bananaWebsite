@@ -56,7 +56,7 @@ nav{
   line-height: 30px;
 }
 #text1{
-  max-width: 50%;
+
   margin-left: 5%;
 }
 #learn{
@@ -64,6 +64,11 @@ nav{
 }
 #firstbanana{
   display: inline-block;
+  max-height: auto;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid;
 }
 .dsc{
   max-width: 75%;
