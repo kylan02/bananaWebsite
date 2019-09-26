@@ -54,12 +54,9 @@ nav{
   font-style: italic;
   text-align: center;
   font-family: arial;
-  line-height: 30px;
+  line-height: 35px;
 }
-#text1{
 
-  margin-left: 5%;
-}
 #learn{
   text-align: center;
 }
@@ -79,7 +76,19 @@ nav{
   margin-right: auto;
 }
 
+<<<<<<< HEAD
 #a, #b, #c, #d, #e, #f{
+=======
+#grid{
+  margin-top: 20px;
+}
+.space{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#a, #b, #c{
+>>>>>>> 3166486dfb90aaeb71ef7d381092d4bcdd596a23
   width: 100%;
 }
 
